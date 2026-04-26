@@ -1,3 +1,4 @@
+![Architecture](architecture.png)
 Wazuh SOC Lab – SSH Brute Force Detection
 Author
 
